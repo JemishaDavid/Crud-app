@@ -1,0 +1,34 @@
+.example-spacer {
+    flex: 1 1 auto;
+    
+  }
+ 
+  
+  .mat-form-field {
+    /* font-size: 14px; */
+    width: 100%;
+  }
+  
+  
+  .main-body {
+    max-width: 1248px;
+    padding-top: 20px;
+    margin: 0, auto;
+  }
+  /* mat-label {
+    width:25%;
+  } */
+  .action {
+    display: flex;
+    gap: 5px;
+  }
+  .mat-header-cell {
+    font-weight: bolder;
+  }
+  .table-container {
+    margin-left: 15%;
+  }
+  mat-form-field {
+      margin-left: 15%;  
+      width: 80%;
+  }
